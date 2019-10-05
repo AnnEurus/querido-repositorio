@@ -1,0 +1,9 @@
+.caja{
+    color: rgb(236, 11, 236);
+    width: 30%;
+    height: 30px;
+    border: 1px rgb(66, 30, 194) solid;
+    padding: 6px;
+    margin: 4px;
+
+}
